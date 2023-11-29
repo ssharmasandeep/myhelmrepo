@@ -3,7 +3,7 @@ entries:
   free5gc:
   - apiVersion: v2
     appVersion: v3.0.6
-    created: "2023-11-29T21:55:37.815872017+05:30"
+    created: "2023-11-29T22:11:38.674712219+05:30"
     dependencies:
     - condition: deployWEBUI
       name: free5gc-webui
@@ -58,18 +58,18 @@ entries:
   raemis-pcn:
   - apiVersion: v2
     appVersion: 5.2.5.1-1
-    created: "2023-11-29T21:55:37.819989004+05:30"
+    created: "2023-11-29T22:11:38.6769521+05:30"
     description: Raemis PCN Helm chart for Kubernetes
     digest: a88fab63bfd943a5354809c33a1d539177946e061e1c5f4964b64c89d12af588
     name: raemis-pcn
     type: application
     urls:
-    - https://ssharmasandeep.github.com/myhelmrepo/raemis_default_pcn_5.2.5.1-1_VIRTUAL_centos7_helm_chart_0.2.5-0.tgz
+    - https://ssharmasandeep.github.com/myhelmrepo/raemis-pcn-0.2.5-0.tgz
     version: 0.2.5-0
   ueransim:
   - apiVersion: v2
     appVersion: v3.2.4
-    created: "2023-11-29T21:55:37.821224305+05:30"
+    created: "2023-11-29T22:11:38.678448933+05:30"
     description: A Helm chart to deploy UERANSIM
     digest: a946e08c7b6e366e3fb677c237720d06cb832202bb50baf9544dca3dbcba21f6
     icon: https://raw.githubusercontent.com/aligungr/UERANSIM/master/.github/logo.png
@@ -82,4 +82,4 @@ entries:
     urls:
     - https://ssharmasandeep.github.com/myhelmrepo/ueransim-2.0.12.tgz
     version: 2.0.12
-generated: "2023-11-29T21:55:37.788223652+05:30"
+generated: "2023-11-29T22:11:38.64655028+05:30"
