@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  ueransim:
+  - apiVersion: v2
+    appVersion: v3.2.4
+    created: "2023-11-29T21:45:04.530887664+05:30"
+    description: A Helm chart to deploy UERANSIM
+    digest: a946e08c7b6e366e3fb677c237720d06cb832202bb50baf9544dca3dbcba21f6
+    icon: https://raw.githubusercontent.com/aligungr/UERANSIM/master/.github/logo.png
+    maintainers:
+    - email: abderaouf.khichane@orange.com
+      name: Abderaouf KHICHANE
+    - email: ilhem.fajjari@orange.com
+      name: Ilhem FAJJARI
+    name: ueransim
+    urls:
+    - https://ssharmasandeep.github.com/myhelmrepo/ueransim-2.0.12.tgz
+    version: 2.0.12
+generated: "2023-11-29T21:45:04.529066654+05:30"
