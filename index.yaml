@@ -53,7 +53,7 @@ entries:
       name: Ayoub BOUSSELMI
     name: free5gc
     urls:
-    - https://ssharmasandeep.github.com/myhelmrepo/free5gc-1.0.2.tgz
+    - https://ssharmasandeep.github.io/myhelmrepo/free5gc-1.0.2.tgz
     version: 1.0.2
   raemis-pcn:
   - apiVersion: v2
@@ -64,7 +64,7 @@ entries:
     name: raemis-pcn
     type: application
     urls:
-    - https://ssharmasandeep.github.com/myhelmrepo/raemis-pcn-0.2.5-0.tgz
+    - https://ssharmasandeep.github.io/myhelmrepo/raemis-pcn-0.2.5-0.tgz
     version: 0.2.5-0
   ueransim:
   - apiVersion: v2
@@ -80,6 +80,6 @@ entries:
       name: Ilhem FAJJARI
     name: ueransim
     urls:
-    - https://ssharmasandeep.github.com/myhelmrepo/ueransim-2.0.12.tgz
+    - https://ssharmasandeep.github.io/myhelmrepo/ueransim-2.0.12.tgz
     version: 2.0.12
 generated: "2023-11-29T22:12:47.999781798+05:30"
