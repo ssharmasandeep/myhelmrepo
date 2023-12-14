@@ -3,7 +3,7 @@ entries:
   free5gc:
   - apiVersion: v2
     appVersion: v3.0.6
-    created: "2023-12-03T15:50:54.867299304+05:30"
+    created: "2023-12-14T16:01:29.517043243+05:30"
     dependencies:
     - condition: deployWEBUI
       name: free5gc-webui
@@ -53,23 +53,33 @@ entries:
       name: Ayoub BOUSSELMI
     name: free5gc
     urls:
-    - https://ssharmasandeep.github.io/myhelmrepo/free5gc-1.0.2.tgz
+    - free5gc-1.0.2.tgz
     version: 1.0.2
+  kubevirt-vm:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-12-14T16:01:29.517933123+05:30"
+    description: A Helm chart for deploying a KubeVirt VirtualMachine
+    digest: 57c10a7c996585aac613286f70a13c5ccd3a7d98fbe329149ba49fbb3ffa93c2
+    name: kubevirt-vm
+    urls:
+    - kubevirt-vm-0.1.0.tgz
+    version: 0.1.0
   raemis-pcn:
   - apiVersion: v2
     appVersion: 5.2.5.1-1
-    created: "2023-12-03T15:50:54.872176241+05:30"
+    created: "2023-12-14T16:01:29.525309062+05:30"
     description: Raemis PCN Helm chart for Kubernetes
     digest: a88fab63bfd943a5354809c33a1d539177946e061e1c5f4964b64c89d12af588
     name: raemis-pcn
     type: application
     urls:
-    - https://ssharmasandeep.github.io/myhelmrepo/raemis-pcn-0.2.5-0.tgz
+    - raemis-pcn-0.2.5-0.tgz
     version: 0.2.5-0
   ueransim:
   - apiVersion: v2
     appVersion: v3.2.4
-    created: "2023-12-03T15:50:54.875274558+05:30"
+    created: "2023-12-14T16:01:29.52836453+05:30"
     description: A Helm chart to deploy UERANSIM
     digest: a946e08c7b6e366e3fb677c237720d06cb832202bb50baf9544dca3dbcba21f6
     icon: https://raw.githubusercontent.com/aligungr/UERANSIM/master/.github/logo.png
@@ -80,6 +90,6 @@ entries:
       name: Ilhem FAJJARI
     name: ueransim
     urls:
-    - https://ssharmasandeep.github.io/myhelmrepo/ueransim-2.0.12.tgz
+    - ueransim-2.0.12.tgz
     version: 2.0.12
-generated: "2023-12-03T15:50:54.834710653+05:30"
+generated: "2023-12-14T16:01:29.467614724+05:30"
